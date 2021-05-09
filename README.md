@@ -1,2 +1,11 @@
-# Team-Profile-Generator
-Rice Coding Bootcamp Week 10 Homework
+# Team Profile Generator
+
+## Description
+
+## Installation
+* ()[]
+
+## Usage
+
+## Credits
+
